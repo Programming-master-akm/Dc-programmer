@@ -1,2 +1,2 @@
 # Dc-programmer
-only conding for c/c++/java
+only coding for c/c++/java
